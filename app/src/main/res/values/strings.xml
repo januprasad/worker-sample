@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">work-manager-some-cases</string>
+    <string name="worker_after_twoseconds">Upload Logs After Two Seconds</string>
+    <string name="worker_toast">Upload Logs</string>
+    <string name="successfully_uploaded">Successfully uploaded</string>
+    <string name="successfully_updated_event">Successfully updated event</string>
+    <string name="failed_to_upload_due_to_connectivity_issues">Failed to upload due to connectivity issues</string>
+    <string name="upload_cancel_if_double_clicked">Upload cancel</string>
+    <string name="provide_sample_event_update">Provide sample event update</string>
+    <string name="provide_sample_event_update_relaunch">Provide sample event update, cancel it and relaunch</string>
+    <string name="failed_to_upload_due_to_user_cancelled">Upload Cancelled</string>
+    <string name="failed_to_update_event_due_to_user_cancelled">Event update Cancelled</string>
+
+</resources>
